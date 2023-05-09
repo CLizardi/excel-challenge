@@ -1,3 +1,5 @@
+![mika-baumeister-Wpnoqo2plFA-unsplash](https://user-images.githubusercontent.com/52866379/237003727-035c07e8-313f-4b57-8307-6fee5ec32468.jpg)
+
 # Introduction
 Welcome to the Crowdfunding Excel Challenge! In this project, I analyzed a database of 1,000 sample crowdfunding projects to uncover any hidden trends that could contribute to a project's success. This challenge involved organizing and analyzing the data using Excel to identify the factors that correlate with a successful crowdfunding campaign.
 
