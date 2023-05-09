@@ -12,27 +12,27 @@ In this project, I analyzed a database of 1,000 crowdfunding projects to determi
 # What I Did
 In this project, I performed the following tasks:
 
-Analyzed the dataset to identify trends and patterns in crowdfunding projects
-Created pivot tables and charts to visualize the data and gain insights
-Determined the most popular project categories and the most successful campaigns
-Analyzed the relationship between funding goals, campaign duration, and funding success
-Created a summary report highlighting my findings and recommendations for success in crowdfunding projects.
+* Analyzed the dataset to identify trends and patterns in crowdfunding projects
+* Created pivot tables and charts to visualize the data and gain insights
+* Determined the most popular project categories and the most successful campaigns
+* Analyzed the relationship between funding goals, campaign duration, and funding success
+* Created a summary report highlighting my findings and recommendations for success in crowdfunding projects.
 
 # Tools Used
 The following tools were used in this project:
 
-Excel - for data cleaning, organization, analysis, and visualization
-GitHub - for version control and collaboration
-VSCode - for writing and editing markdown files
+* Excel - for data cleaning, organization, analysis, and visualization
+* GitHub - for version control and collaboration
+* VSCode - for writing and editing markdown files
 
 # What I Learned
 Through this project, I gained experience in the following:
 
-Data analysis and visualization using Excel
-Using pivot tables and charts to draw insights from data
-Data cleaning and organization techniques
-Identifying trends and patterns in large datasets
-Writing clear and concise reports summarizing data analysis findings
+* Data analysis and visualization using Excel
+* Using pivot tables and charts to draw insights from data
+* Data cleaning and organization techniques
+* Identifying trends and patterns in large datasets
+* Writing clear and concise reports summarizing data analysis findings
 
 # Qs & As
 •	Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
