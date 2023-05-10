@@ -1,4 +1,4 @@
-# Crowdfunding Excel Challenge1
+# Crowdfunding Excel Challenge
 ![mika-baumeister-Wpnoqo2plFA-unsplash](https://user-images.githubusercontent.com/52866379/237003727-035c07e8-313f-4b57-8307-6fee5ec32468.jpg)
 
 # Introduction
